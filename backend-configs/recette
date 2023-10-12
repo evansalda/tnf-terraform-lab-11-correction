@@ -1,0 +1,4 @@
+bucket  = "nuumfactory-terraform-backend"
+key     = "terraform-XX-rec.tfstate" # Remplacez XX par votre digit
+region  = "eu-west-3"
+profile = "nuumfactory-student"
